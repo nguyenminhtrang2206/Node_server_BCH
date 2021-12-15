@@ -1,0 +1,44 @@
+[
+    {
+        "id": 7,
+        "name": "NexGen 2",
+        "model": "2005",
+        "type": "toaster",
+        "amount": "10"
+    },
+    {
+        "id": 4,
+        "name": "Cosmos",
+        "model": 1990,
+        "type": "phone",
+        "amount": 30
+    },
+    {
+        "id": 5,
+        "name": "MaxEffect 2000",
+        "model": 2012,
+        "type": "radio",
+        "amount": 5
+    },
+    {
+        "id": 2,
+        "name": "Future 2025",
+        "model": 2011,
+        "type": "tv",
+        "amount": 7
+    },
+    {
+        "id": 3,
+        "name": "Beast II",
+        "model": 2018,
+        "type": "monitor",
+        "amount": 13
+    },
+    {
+        "id": 6,
+        "name": "Mercury",
+        "model": 2017,
+        "type": "stereo",
+        "amount": 20
+    }
+]
